@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run fraud_detection_web_app.py
